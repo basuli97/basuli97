@@ -19,7 +19,13 @@
   
 > ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=plastic&logo=protonmail&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=bitbucket&logoColor=white) ![DaisyUI](https://img.shields.io/badge/Ms_Clipchamp-5A0EF8?style=plastic&logo=scrimba&logoColor=white) ![Stellar](https://img.shields.io/badge/Ms_Designer-7D00FF?style=plastic&logo=fastify&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
-> ![Linux](https://img.shields.io/badge/Linux-white?style=plastic&logo=Linux&logoColor=black)
+> ![Linux](https://img.shields.io/badge/Linux-white?style=plastic&logo=Linux&logoColor=black) ![Red Hat](https://img.shields.io/badge/Red%20Hat-red?style=plastic&logo=Red%20Hat&logoColor=blue) ![Git](https://img.shields.io/badge/Git-blue?style=plastic&logo=gitforwindows&logoColor=red)
+
+> ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-blue?style=plastic&logo=hypothesis&logoColor=red)
+
+> ![HTML](https://img.shields.io/badge/Html-orange?style=plastic&logo=html5&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-orange?style=plastic&logo=CSS3&logoColor=black)
+
+> ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-white?style=plastic&logo=apachetomcat&logoColor=black) 
 
   </p>
 
