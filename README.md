@@ -35,7 +35,7 @@
 I have completed Masters in AI & ML and focusing Data Science with expertising in data analysis and reporting, query optimization, data modelling and data visualizations. 
 
 
-<img align="right" alt="Coding" width="300" src="https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges/assets/142071405/b44b8043-94f9-47a7-93fa-b75ada6d35d4">
+<img align="right" alt="Coding" width="300" src="https://github.com/basuli97/basuli97/blob/main/pic4.gif">
 
 - Started my career with tech like Unix, Linux and now moving forward with latest tech - Microsoft Azure, Azure DevOps, Shell Scripting, Python, NumPy, Pandas, Seaborn, Matplotlib, SciPy, scikit-learn,  Tableau, Excel, Visualization, Probability and Statictics, Math Fundamentals and Git, .... [ May 2019 - Present ]
 - Generate reports and perform data analysis by querying data using SQL.
