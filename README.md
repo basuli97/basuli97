@@ -105,3 +105,16 @@ Feel free to text me !!!
   [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white)]  
   
   [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=plastic&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/basuli97)  
+
+
+###  <summary><b>📱Profile Stats</b></summary>
+  
+####  Statistics :
+
+> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basuli97&show_icons=true&locale=en&layout=compact" alt="basuli97" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basuli97&show_icons=true&locale=en" alt="basuli97" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basuli97&" alt="basuli97" /></p>
+
+  -------------------------------------------------------
