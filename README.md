@@ -22,7 +22,7 @@
 
 ### 🤷‍♂️ About Me:
 
-I have completed Masters in AI & ML and focusing ata Science with expertising in data analysis and reporting, query optimization, data modelling and data visualizations. 
+I have completed Masters in AI & ML and focusing Data Science with expertising in data analysis and reporting, query optimization, data modelling and data visualizations. 
 
 
 <img align="right" alt="Coding" width="300" src="https://github.com/KasiMuthuveerappan/Danny-Ma-s-SQL-challenges/assets/142071405/b44b8043-94f9-47a7-93fa-b75ada6d35d4">
@@ -33,7 +33,6 @@ I have completed Masters in AI & ML and focusing ata Science with expertising in
 - Data analysis and reporting using Google Sheets and Microsoft Excel.
 - Utlizing Python and its libraries for data manipulation and wrangling.
 - A brief EDA using Hypothesis Testing and Feature Engg using Scipy for Statistical Analysis.
-- Currently pioneering in Prompt Engineering and GenAi through HuggingFace🤗
 - Currently Learning the Machine learning algorithms(Supervised and Unsupervised).
 - Experienced and Azure Certified DevOps engineer with a experience in build, release pipeline and passion for developing innovative programs. 
 - Innovative creator to develop automation for monitoring and cloud. 
@@ -59,3 +58,9 @@ Microsoft Azure Services -
 
 
 ***
+
+## 🐍 Python & Libraries
+
+| Project Link 🫵🏼 | Tools Used | Area of Analysis | Project Description | 
+|----- |---|---|---|
+
