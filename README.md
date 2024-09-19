@@ -61,6 +61,19 @@ Microsoft Azure Services -
 
 ## 🐍 Python & Libraries
 
-| Project Link 🫵🏼 | Tools Used | Area of Analysis | Project Description | 
+| Project Link  | Tools Used | Area of Analysis | Project Description | 
 |----- |---|---|---|
+| [![yulu](https://img.shields.io/badge/YULU-2D8CFF?style=for-the-badge&logo=proto.io&logoColor=white)](https://github.com/basuli97/Business-Case---Yulu---HypothesisTesting)(click click icon to view) | Numpy, Pandas, Seaborn, scipy , boxcox , Ttest , Chisquare , ANOVA , Kruskal-walis , Shapiro-wilk , Mannwhitney_u. | Data analysis, Data Exploration , Data Visualization, Statistics & probability,Hypothesis Testing | This repository provides a detailed exploration of `Yulu` Bike rentals data using Hypothesis testing, employing statistical techniques, we delve into the nuances of customer behavior, E-bikes rental patterns offering insights & key metrics to enhance understanding and inform strategic decisions.|
+| [![walmart](https://img.shields.io/badge/WALMART-%232081E2?style=for-the-badge&logo=Codepen&logoColor=yellow)](https://github.com/basuli97/Business-Case-Walmart--Confidence-Interval-and-CLT)(click icon to view) | Numpy, Pandas, Matplotlib.plotpy, Seaborn, Central Limit Theorem, scipy.stats, boxcox | Data analysis, Data Exploration , Data Visualization, Statistics & probability, confidence interval |This repository provides a detailed exploration of `WALMART`'s BlackFridaySales data using the Central Limit Theorem (CLT) coupled with Confidence Interval Analysis. Leveraging statistical techniques, we delve into the nuances of customer behavior, purchase patterns.|
+| [![Aerofit](https://img.shields.io/badge/AEROFIT-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=blue)](https://github.com/basuli97/Business-Case-Aerofit--Descriptive-Statistics-Probability-) (click icon to view)| Numpy, Pandas, Matplotlib.plotpy, Seaborn, statistics , probability | Data analysis, Data Exploration , Data Visualization, Descriptive Statistics & probability | This repository serves as a comprehensive solution for `AEROFIT` Company's Exploratory Data Analysis (EDA), employing descriptive statistics and probability to gain insights and inform strategic decisions.|
+| [![Netflix](https://img.shields.io/badge/NETFLIX-181717?style=for-the-badge&logo=netflix&logoColor=red)](https://github.com/basuli97/Business-Case-Study---Netflix-Data-Exploration-and-Visualization) (click icon to view)| Numpy, Pandas, Matplotlib.plotpy, Seaborn | Data cleaning , Data analysis, Data Exploration , Data Visualization | This repository conducts an Exploratory Data Analysis (EDA) on the OTT streaming platform `NETFLIX`, offering insights into user behavior, content trends, and key metrics to enhance understanding and inform strategic decisions. |
+
+
+***
+
+## 📜SQL
+
+| Project Link | Tools Used | Area of Analysis | Project Description | 
+|-----|---|---|---|
+|[![MySQL](https://img.shields.io/badge/DANNYMA's-SQL-FFE305?.svg?style=for-the-badge&logo=polywork&logoColor=white)](https://github.com/basuli97/Business_Case_Study_Target_SQL)(click icon to view)| MySQL |Data analysis, Data cleaning, Data Exploration | This repo serves as the solution for some of the 8 case studies from the `[#8WeekSQLChallenge]`(https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |
 
