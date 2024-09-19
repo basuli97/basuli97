@@ -92,3 +92,16 @@ Feel free to text me !!!
 
 
 </p>
+
+
+###  <summary><b>👇🏼FORUMs</b></summary>
+
+  Here are some of the platforms where I Practice : 
+  
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/basuli97/)  
+  
+  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/dashboard)  
+    
+  [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white)]  
+  
+  [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=plastic&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/basuli97)  
