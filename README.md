@@ -115,6 +115,6 @@ Feel free to text me !!!
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basuli97&show_icons=true&locale=en" alt="basuli97" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basuli97&" alt="basuli97" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basuli97&theme=vision-friendly-dark" alt="basuli97" /></p>
 
   -------------------------------------------------------
