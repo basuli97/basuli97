@@ -27,6 +27,7 @@
 
 > ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-white?style=plastic&logo=apachetomcat&logoColor=black) 
 
+<img align="right" alt="Coding" width="300" src="https://github.com/basuli97/basuli97/blob/main/Pic2.jpeg">
   </p>
 
 ### 🤷‍♂️ About Me:
