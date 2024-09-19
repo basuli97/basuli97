@@ -59,6 +59,15 @@ Microsoft Azure Services -
 
 ***
 
+##  🤖 Machine Learning
+
+| Project Link 🫵🏼 | Tools Used | Area of Analysis | Project Description | 
+|----- |---|---|---|
+| [![LoanTap](https://img.shields.io/badge/LoanTap-6001D2?style=for-the-badge&logo=tails&logoColor=magenta)](https://github.com/basuli97/Business-Case-LoanTap-LogisticRegression)(Click Icon to View)| Numpy, Pandas, Seaborn, scipy, sklearn, Normalization, LogisticRegression, Model optimization | EDA, Feature Engineering, Feature selection, MachineLearning, Predictive Modelling, Hyperparameter Tuning(λ), Cross_validation  | This repository delves into Logistic Regression for loan approval prediction at `LoanTap`. It covers data preprocessing, model development, evaluation metrics, and strategic business recommendations. Explored model optimization techniques to effectively mitigate default risks.|
+| [![Jamboree](https://img.shields.io/badge/Jamboree-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://github.com/basuli97/Business-Case-Jamboree-LinearRegression)(Click Icon to View)| Numpy, Pandas, Matplotlib, Seaborn, scipy, statsmodels, Standarization, Linear,Ridge,Lasso,ElasticNet Regression. | Exploratory Data Analysis , Data Visualization, probability & Stats, Hypothesis Testing, FeatureEngineering, MachineLearning, Predictive Modelling.  | This repository provides an in-depth exploration of the predictive linear regression model tailored for `Jamboree` Institute students' data. The analysis encompasses the application of Ridge, Lasso, and ElasticNet regressions to enhance predictive accuracy and robustness.|
+
+***
+
 ## 🐍 Python & Libraries
 
 | Project Link  | Tools Used | Area of Analysis | Project Description | 
