@@ -111,7 +111,7 @@ Feel free to text me !!!
   
 ####  Statistics :
 
-> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basuli97&show_icons=true&locale=en&layout=compact" alt="basuli97" /></p>
+> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basuli97&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="basuli97" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basuli97&show_icons=true&locale=en&theme=vision-friendly-dark" alt="basuli97" /></p>
 
