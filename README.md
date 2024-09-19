@@ -50,7 +50,6 @@ Microsoft Azure Services -
 
 - Virtual Machine, Virtual Machine Scale Set, Load Balancer, Azure Key Vault, Storage Account, App Service, Azure Function, Log Analytics Workspace and more.
 
-> <p><img align="center" src="https://komarev.com/ghpvc/?username=kasimuthuveerappan&label=Profile%20views&color=red&style=plastic" alt="kasimuthuveerappan" width="150" height="25" /> </p>
 
 #### 📚 Here, I document a summary of my project works. 
 
