@@ -7,7 +7,7 @@
 ### <summary><b>🛠️ Tools & Languages</b></summary>
 <p>
   Here are some of the Tools and Languages that I use:
-  <img align="right" alt="Coding" width="300" src="https://github.com/basuli97/basuli97/blob/main/Pic2.jpeg">
+  <img align="right" alt="Coding" width="500" src="https://github.com/basuli97/basuli97/blob/main/Pic2.jpeg">
   
 > ![Google Drive](https://img.shields.io/badge/Google%20BigQuery-4287F4?style=plastic&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
 
